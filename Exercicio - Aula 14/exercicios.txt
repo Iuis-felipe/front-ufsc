@@ -1,0 +1,23 @@
+1) Desenvolva uma página HTML com estilização externa em CSS que simule uma
+landing page para um produto fictício (ex: perfume, aplicativo, cafeteria, etc.).
+A proposta consiste na seleção e aplicação de uma paleta de cores harmônica
+baseada nos modelos de combinação do círculo cromático: análoga,
+complementar ou monocromática.
+
+Estrutura HTML obrigatória:
+-> Um título principal (<h1>)
+-> Um subtítulo (<h2>)
+-> Um parágrafo com texto descritivo (<p>)
+-> Um botão de chamada para ação (<button>)
+Estilo CSS obrigatório:
+-> Aplicação de cor de fundo à página (usando uma cor da paleta escolhida)
+-> Definição de cores distintas para o título, subtítulo e parágrafo, respeitando o contraste e a harmonia da
+paleta
+-> Estilização do botão com efeito hover (mudança de cor ao passar o cursor)
+-> Definição de uma tipografia legível (opcionalmente utilizando Google Fonts)
+
+Recomendações de Design
+-> Utilize ferramentas como Coolors ou Adobe Color para gerar a paleta
+-> Garanta contraste adequado entre texto e fundo para preservar a acessibilidade
+-> Limite a paleta a no máximo 4 cores principais para evitar poluição visual
+-> Envie a paleta escolhida, os arquivos index.html e style.css
