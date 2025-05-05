@@ -1,0 +1,10 @@
+Escolha uma marca famosa que você gosta, extraia a paleta de cores do logo
+usando o Adobe Color e crie um site simples usando essas cores no HTML e
+CSS.
+-> Importante: O site deve mostrar também o logo da marca escolhida!
+
+Estrutura básica:
+1. Título com o nome da marca
+2. Imagem do logo
+3. Texto curto falando porque escolheu essa marca
+4. Apresentação das cores
