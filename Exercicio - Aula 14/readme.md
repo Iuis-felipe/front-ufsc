@@ -32,6 +32,6 @@ Este projeto é uma landing page fictícia criada para a atividade #14 da discip
 - Fonte utilizada: [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) (Google Fonts)
 - Estilo serifado, elegante e adequado à identidade visual do produto (perfume)
 
-## 📸 Captura de Tela (opcional)
+## 📸 Captura de Tela
 ![alt text](image.png)
 
