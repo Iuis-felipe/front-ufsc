@@ -1,0 +1,16 @@
+h1 {
+  font-size: 36px;
+  color: #20e673;
+}
+
+.italico {
+  font-style: italic;
+}
+
+.negrito {
+  font-weight: bold;
+}
+
+.tamanho {
+  font-size: 18px;
+}

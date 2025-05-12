@@ -1,0 +1,36 @@
+EXERCÍCIO 1
+
+1. Crie uma página chamada tipografia.html e um arquivo de estilos chamado tipografia.css.
+
+2. No HTML, escreva:
+    - Um título com a frase: "Minha Primeira Página com Tipografia"
+    
+    - Dois parágrafos com os textos abaixo: Primeiro parágrafo: "As fontes serifadas possuem pequenos traços nas pontas das letras e são tradicionais."
+
+    - Segundo parágrafo: "As fontes sem serifa são mais modernas e costumam ser usadas em sites pela sua boa leitura na tela.“
+
+3. No CSS:
+-> Altere a fonte do título (h1) para uma fonte serifada (Times New Roman, Georgia, ou similar).
+-> Altere a fonte dos parágrafos (p) para uma fonte sem serifa (Arial, Verdana, ou similar).
+
+==================================================================================================================================
+
+EXERCÍCIO 2
+
+1. Crie uma página html e um arquivo css.
+2. No HTML, escreva:
+    • Um título com a frase: "Explorando Estilos de Fonte"
+    
+    • Três parágrafos com os textos abaixo: 
+        - Primeiro parágrafo: "O itálico é usado para destacar trechos importantes ou palavras estrangeiras."
+        - Segundo parágrafo: "O negrito chama a atenção do leitor para informações essenciais."
+        - Terceiro parágrafo: "O tamanho da fonte deve ser adequado para garantir uma boa leitura.“
+
+3. No CSS:
+    - Altere o tamanho da fonte do título (h1) para 36px.
+    - Deixe o primeiro parágrafo com a fonte em estilo itálico.
+    - Deixe o segundo parágrafo com a fonte em estilo negrito.
+    - Altere o tamanho da fonte do terceiro parágrafo para 18px.
+
+➢ Desafio Extra:
+Altere a cor da fonte do título para uma cor da sua preferência.
