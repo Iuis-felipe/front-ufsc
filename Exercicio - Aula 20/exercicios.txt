@@ -1,0 +1,16 @@
+Exercício 01
+
+1. Crie um arquivo HTML chamado index.html e adicione a estrutura básica do documento.
+
+2. Dentro do HTML, crie um botão (<button>) com a classe btn e o texto “Clique Aqui”.
+
+3. Crie um arquivo CSS chamado style.css e estilize o botão .btn com as seguintes características:
+• Largura de 150px e altura de 50px.
+• Cor de fundo inicial: azul claro.
+• Cor do texto: branco.
+
+4. Aplique a propriedade transition ao botão .btn para que ele mude suavemente de aparência
+quando o mouse passar sobre ele. Especificamente:
+• Altere a cor de fundo para uma cor mais escura de azul ao passar o mouse.
+• Adicione uma leve expansão no tamanho do botão (exemplo: de 150px para 160px de largura).
+• Defina a transição para ocorrer em 0,3 segundos com uma curva de suavização ease-in-out.
